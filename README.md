@@ -63,10 +63,9 @@ I'm a passionate learner aiming to become a **top-tier AWS Cloud Architect**. Wi
 ---
 
 ## 📬 Reach Me
-- 📧 Email: [your-email@example.com]
-- 🌐 Portfolio: [your-deployed-portfolio-link]
-- 💼 LinkedIn: [your-linkedin]
-- 🧑‍💻 GitHub: [your-username]
+- 📧 Email: [omeshv845@gmail.com]
+- 💼 LinkedIn: [[omeshv7](https://www.linkedin.com/in/omeshwar-v-568670343/)]
+- 🧑‍💻 GitHub: [omesh7]
 
 ---
 
