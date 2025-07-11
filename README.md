@@ -33,6 +33,14 @@ I'm a passionate learner aiming to become a **top-tier AWS Cloud Architect**. Wi
 
 ---
 
+## Certifications
+
+ - [AWS Certified Cloud Practioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/c1c058e3c66e4d80aa1d29229dac9f5f)
+
+
+
+---
+
 ## 🚀 What I'm Building
 
 ✅ Real-world AWS use-cases  
